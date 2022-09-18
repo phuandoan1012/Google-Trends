@@ -2,7 +2,7 @@
 Task: Collect weekly and daily data for the keyword 'bitcoin' since 2015-01-01. Jupyter notebook and Python is used for this task. 
 
 This repository includes:
-- Code file: codePython.ipynb
+- Code file: pythonCode.ipynb
 - Exported data folder: includes 2 csv file exported from running the code
 - README file to explain about my work
 
